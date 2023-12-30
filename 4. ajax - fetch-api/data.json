@@ -1,0 +1,17 @@
+[
+    {
+        "url":"http://www.augsburg.de/",
+        "ort":"Augsburg",
+        "postleitzahl":86316
+    },
+    {
+        "url":"http://www.frankfurt.de/",
+        "ort":"Frankfurt",
+        "postleitzahl":60311
+    },
+    {
+        "url":"http://www.stuttgart.de/",
+        "ort":"Stuttgart",
+        "postleitzahl":70173
+    }
+]
